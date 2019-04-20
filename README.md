@@ -67,6 +67,8 @@ Your finished project must include all of the following requirements:
 
 * [ ] Once you get your `Tab` component working properly add a couple more articles yourself and check out how it works.
 
+BQ- I'm not sure if this is cheating, but I'm adding those articles in the HTML.
+
 ## Stretch Problems
 
 Your stretch challenge is to write the functionality of a `Carousel` component. You have the HTML and CSS already in place, simply un-comment the HTML in the `index.html` file. This is an advanced challenge, so you are not expected to be able to complete it. If you begin and don't finish, you should still submit with what you have. You may reference the `Tabs.js` file for assistance.
